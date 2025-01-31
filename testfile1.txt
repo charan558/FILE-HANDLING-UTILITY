@@ -1,0 +1,3 @@
+Hello, this is a sample test.
+Enters a loop where the user can keep adding new lines to the file.
+Exits the loop when the user types "exit" and prints the final file contents.
