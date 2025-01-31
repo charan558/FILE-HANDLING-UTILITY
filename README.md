@@ -1,7 +1,5 @@
 # FILE-HANDLING-UTILITY
 
-# FILE-HANDLING-UTILITY
-
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: KAMINDLA RAVICHARAN
@@ -93,6 +91,8 @@ Storing and updating critical data backups in text format.
 This program provides a foundation for file handling in Java and can be extended for real-world applications like text processing tools, logging mechanisms, or simple document editors.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d53af2b1-0262-47ad-8edd-a18351c46531)
 
 
 
